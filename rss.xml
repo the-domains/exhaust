@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Exhau.st - Automotive News]]></title>
         <description><![CDATA[Exhau.st - Automotive News]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/exhaust/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Nov 2015 17:19:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 Nov 2015 17:19:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/exhaust/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This Porsche 930 Turbo Has Been Unleashed]]></title>
+            <description><![CDATA[<article><h1>This Porsche 930 Turbo Has Been Unleashed</h1><p>"This car garners attention from everyone," says Grant Karnes, "and I think it kind of draws everybody in to what Porsche is." Owned by a family friend who later sold it to his father, Karnes had known about and lusted after this particular car for years.</p><img src="https://i.ytimg.com/vi/x00O3wHIP0Q/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=x00O3wHIP0Q</link>
+            <guid isPermaLink="false">bb0da76b-84b4-4cff-a4cc-eb89f9215bdb</guid>
+            <pubDate>Tue, 10 Nov 2015 17:19:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New diesel cars will be road tested by EPA in wake of VW scandal]]></title>
             <description><![CDATA[<article><h1>New diesel cars will be road tested by EPA in wake of VW scandal</h1><p>On Sunday, The New York Times reported that the United States Environmental Protection Agency (EPA) will be expanding its tests on diesel passenger vehicles, including on-road testing in addition to lab tests. Up to 800,000 additional vehicles are affected.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2015/09/Kraftwerk_Volkswagen_VW-300x451.jpeg"></article>]]></description>
