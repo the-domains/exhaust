@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Exhau.st - Automotive News]]></title>
+        <description><![CDATA[Exhau.st - Automotive News]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 10 Nov 2015 17:19:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New diesel cars will be road tested by EPA in wake of VW scandal]]></title>
+            <description><![CDATA[<article><h1>New diesel cars will be road tested by EPA in wake of VW scandal</h1><p>On Sunday, The New York Times reported that the United States Environmental Protection Agency (EPA) will be expanding its tests on diesel passenger vehicles, including on-road testing in addition to lab tests. Up to 800,000 additional vehicles are affected.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2015/09/Kraftwerk_Volkswagen_VW-300x451.jpeg"></article>]]></description>
+            <link>http://arstechnica.com/cars/2015/11/new-diesel-cars-will-be-road-tested-by-epa-in-wake-of-vw-scandal/</link>
+            <guid isPermaLink="false">5c87a5e0-ccb8-42dd-be4e-cd10b57a7cd4</guid>
+            <pubDate>Tue, 10 Nov 2015 17:19:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
