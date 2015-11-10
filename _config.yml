@@ -2,12 +2,13 @@ name: Exhaust
 favicon: null
 layout_spectrum: 0.5102627433370799
 typography_spectrum: 0.23455956391990185
+title: Exhau.st - Automotive News
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-53372660-1
   facebook: null
   twitter: null
 opengraph:
